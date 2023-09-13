@@ -1,8 +1,8 @@
 ## Come on! FISA-ON-TOP 👋
 
-
+<p align="center">
 <img src="https://github.com/FISA-on-Top/.github/blob/faedc438d8647def5be3cf25bad9bee4daffbe75/logo.svg"/>
-
+</p>
 
 
 ## Team Profile
