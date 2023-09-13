@@ -1,6 +1,10 @@
 ## Come on! FISA-ON-TOP 👋
 
 
+<img src="https://github.com/FISA-on-Top/.github/blob/faedc438d8647def5be3cf25bad9bee4daffbe75/logo.svg"/>
+
+
+
 ## Team Profile
 |Name|고재민|구소현|이예정|최완규|
 |:---:|:---:|:---:|:---:|:---:|
