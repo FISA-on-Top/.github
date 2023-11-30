@@ -6,6 +6,10 @@
 
 `2023.08.02 ~ 2023.09.13`
 
+__개발__ : 증권의 '공모주 청약' 서비스를 구현하였습니다.
+
+__인프라__ : 실제 금융사의 인프라 설계를 참고하여 클라우드 아키텍처를 구현하였습니다. 그에 따라 DB, WAS 서버는 private subnet / WEB 서버는 public subnet 형태로 구성하였습니다.
+
 ![슬라이드2](https://github.com/FISA-on-Top/.github/assets/111681258/32181447-cf82-4642-b609-f89f6dedd76d)
 
 ![슬라이드3](https://github.com/FISA-on-Top/.github/assets/111681258/d75543ed-118a-463b-a1eb-d6f3703cd638)
